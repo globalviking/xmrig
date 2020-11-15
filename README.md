@@ -2,7 +2,7 @@
 
 I got an error about not having enough memory for allocating RandomX dataset and MoneroOcean/xmrig would not run.
 
-This fork removes RandomX based agorithms and was tested with systems with 128 MB of RAM.
+This fork removes RandomX based agorithms and was tested on systems with 128 MB of RAM.
 
 Please report an issue if you need help. This software is free. Donations are welcome.
 XMR: `432h9oos8JK2dVBBw8b2cJ14uLseLHetF1UsfTa8mmg2P2Uyg4osVN4Wz2anQ5TNhSi2iqhDhFLeX6fpVRUCint3S9pWusf`
