@@ -1,13 +1,10 @@
-# Runs on computers with low RAM!
+# MoneroOcean/xmrig patched to run on systems with 256 MB or less. 
 
-I got an error on some of my miners, MoneroOcean/xmrig stops when when it tries to run benchmarks. I got a message along the lines of: failed to allocate RandomX datasets
+I got an error about not having enough memory for allocating RandomX dataset and MoneroOcean/xmrig would not run.
 
-This fork removes RandomX based agorithms from the benchmarks and therefore is able to run on computers that previously could not run xmrig due to low RAM.
+This fork removes RandomX based agorithms and was tested with systems with 128 MB of RAM.
 
-I did not change the donation settings. 
-
-Please consider making a donation to:
-
+Please report an issue if you need help. This software is free. Donations are welcome.
 XMR: `432h9oos8JK2dVBBw8b2cJ14uLseLHetF1UsfTa8mmg2P2Uyg4osVN4Wz2anQ5TNhSi2iqhDhFLeX6fpVRUCint3S9pWusf`
 
 # XMRig
